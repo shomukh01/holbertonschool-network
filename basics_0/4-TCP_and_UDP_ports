@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Display listening TCP and UDP sockets with their owning processes.
+netstat -ltup
